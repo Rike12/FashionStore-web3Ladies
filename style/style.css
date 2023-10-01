@@ -69,19 +69,42 @@ font-family: Verdana;
 }
 .cloth_section{
         width: 90%;       
-        margin: 30px;
-        padding: 30px;
         display: flex;
-        flex-wrap: wrap;
-        justify-content: space-evenly;
+        margin-left: 100px;
+        margin-top: 50px;
+        justify-content: space-around;
 }
 .cloth_div{
         width: 300px;
-}
-h3{
         
 }
+h3{
+    margin-left: 30px;
+}
 
+.bubu-section{
+        width: 90%;       
+        display: flex;
+        margin-left: 100px;
+        margin-top: 50px;
+        justify-content: space-around;
+}
+
+.bubu_div{
+        width:300px;
+}
+
+.skirt-section{
+        width: 90%;       
+        display: flex;
+        margin-left: 100px;
+        margin-top: 50px;
+        justify-content: space-around;
+}
+
+.skirt_div{
+        width:300px;
+}
 
 
 
