@@ -23,6 +23,7 @@ body{
 font-size: 30px;
 font-weight: 700;
 font-family: Verdana;
+cursor: pointer;
 }
 
 .nav_list{
@@ -31,6 +32,7 @@ font-family: Verdana;
         gap: 10px;
         font-size: 20px;
         font-family: sans-serif;
+        cursor: pointer;
 }
 .hero{
         width: 100%;
@@ -78,9 +80,15 @@ font-family: Verdana;
         width: 300px;
         
 }
-h3{
+text{
+        font-size: 10px;
+        text-align: center;
+        
+}
+ h3 {
     margin-left: 30px;
 }
+
 
 .bubu-section{
         width: 90%;       
@@ -112,7 +120,8 @@ h3{
         margin-left:60px;
 
 }
-
-
+.model:hover{
+        transform: scale(1.5);
+}
 
 
